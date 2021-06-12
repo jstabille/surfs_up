@@ -16,7 +16,7 @@ The results of this analysis are comprised from looking at annual temperature da
 
 This data is comprised of 1700 entries.
 
-!["June Summary Data]"](resources/june_temp.png)
+!["June Summary Data"](resources/june_temp.png)
 
 ### December Takeaways
 
