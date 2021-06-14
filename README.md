@@ -2,13 +2,13 @@
 
 ## Overview
 
-The purpose of this project is to analyze weather data using SQLite to see if it is worth openning a surf shop on Oahu.
+The purpose of this project is to analyze weather data using SQLite to see if it is worth openning a surf shop on Oahu. 
 
 ## Results 
 
 The results of this analysis are comprised from looking at annual temperature data from the months of June and December.
 
-### June Takeaways
+### June
 
 1. The average temperature is 74.94 degrees fahrenheit
 2. The minimum temperature is 64 degrees fahrenheit
@@ -18,7 +18,7 @@ This data is comprised of 1700 entries.
 
 !["June Summary Data"](resources/june_temp.png)
 
-### December Takeaways
+### December
 
 1. The average temperature is 71.04 degrees fahrenheit
 2. The minimum temperature is 56 degrees fahrenheit
