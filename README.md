@@ -46,7 +46,7 @@ To dive a little deeper, we looked at the percipitation levels through the two m
 
 By looking at this further analysis it shows that there is little amount of percipitation on a normal day, but there is still days with excessive rainfall. This shows that the surf shop will be able to stay open on most days while a few rainy days will help keep the island ecosystem lush and inviting to people wanting to visit the surf shop.
 
-## More Queries Possible
+#### Further Analisys
 
 * This is a temperature dependent business, but also weather; people are less likely to be at the beach looking for surfing and ice cream in the rain. We could do additional queries on the same data to look at rainfall patterns, to better understand another vector that may cause slow periods for this potential business.
 * We could also pull in data from across the year, rather than two targeted months, as we are introducing bias and assumption by targeting June and December as representative months. 
